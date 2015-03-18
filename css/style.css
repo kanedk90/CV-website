@@ -1,0 +1,107 @@
+
+
+
+.navbarBackground{
+	background-color: #19A3D1;
+	filter: none;
+	border: none;
+	text-align: right;
+	}
+
+.navbar .nav > li > a{
+	color: #fff;
+	text-shadow: none;
+	font-size: 16px;
+	}
+
+.navbar .nav > li > a:hover{	
+	color: #19A3D1;
+	background-color: white;
+	}
+
+.navbar .nav > li > a:active{      
+  background-color: white;
+       }
+
+.largeIcon{
+	color: white;
+	font-size: 35px;
+	padding-left: 50px;
+	padding-right: 50px;            
+          }
+
+.footerBackground{
+	text-align: right;
+	background-color: #19A3D1;
+	}
+
+h4{
+  color:white;
+  text-align: left;
+  font-size:30px;
+  }
+  
+.btn-default{
+background-color: #19A3D1;
+color:white;
+}
+
+.btn-default:hover{
+background-color: white;
+color:#19A3D1;
+}
+
+h2{
+color: #19A3D1;
+}
+
+
+.navbar .navbar-text{
+	color:white;
+	text-align: left;
+	font-size: 12px;
+	}
+
+.navbar .navbar-text > a{
+	text-shadow: none;
+	color: #fff;
+	}
+	
+
+.navbar .navbar-text > a:hover{
+	color: white;
+	}
+	
+.form-horizontal{
+	color:black;
+}
+
+
+h3{
+  color: #19A3D1;
+  }
+  
+.item active{
+	text-align: center;
+	}
+	
+body {
+    padding-top: 75px;
+   
+ 
+}
+
+.navbar .nav > li > a:hover{	
+	color: #19A3D1;
+	background-color: white;
+	}
+
+
+	
+.row{
+	margin-bottom: 40px;
+	}
+
+.vids{
+	align: center;
+	}
